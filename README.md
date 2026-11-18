@@ -7,7 +7,7 @@ Continuous treatment kills the sensitive cells and lets resistant ones take over
 Adaptive therapy pauses treatment so sensitive cells keep resistant ones in check.
 I built a model of this competition in Python and compared the two strategies.
 
-![Main figure](main_figure.png)
+![Model graph](model graph.png)
 
 ## Results
 | Strategy | Time to progression (days) | Drug days |
